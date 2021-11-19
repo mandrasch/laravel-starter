@@ -12,6 +12,7 @@
 ## Launch after install:
 
 -   `ddev start`
+-   `ddev exec npm ci && npm run dev`
 -   `ddev launch`
 
 <hr>
